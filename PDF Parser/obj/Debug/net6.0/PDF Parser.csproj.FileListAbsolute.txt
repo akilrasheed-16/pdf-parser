@@ -1,0 +1,38 @@
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\PDF Parser.exe
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\PDF Parser.deps.json
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\PDF Parser.runtimeconfig.json
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\PDF Parser.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\PDF Parser.pdb
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\itext.barcodes.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\itext.bouncy-castle-connector.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\itext.forms.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\itext.io.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\itext.kernel.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\itext.layout.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\itext.pdfa.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\itext.sign.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\itext.styledxmlparser.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\itext.svg.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\itext.commons.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\itextsharp.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\DOT NET\PDF Parser\PDF Parser\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\DOT NET\PDF Parser\PDF Parser\obj\Debug\net6.0\PDF Parser.csproj.AssemblyReference.cache
+D:\DOT NET\PDF Parser\PDF Parser\obj\Debug\net6.0\PDF Parser.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET\PDF Parser\PDF Parser\obj\Debug\net6.0\PDF Parser.AssemblyInfoInputs.cache
+D:\DOT NET\PDF Parser\PDF Parser\obj\Debug\net6.0\PDF Parser.AssemblyInfo.cs
+D:\DOT NET\PDF Parser\PDF Parser\obj\Debug\net6.0\PDF Parser.csproj.CoreCompileInputs.cache
+D:\DOT NET\PDF Parser\PDF Parser\obj\Debug\net6.0\PDF Parser.csproj.CopyComplete
+D:\DOT NET\PDF Parser\PDF Parser\obj\Debug\net6.0\PDF Parser.dll
+D:\DOT NET\PDF Parser\PDF Parser\obj\Debug\net6.0\refint\PDF Parser.dll
+D:\DOT NET\PDF Parser\PDF Parser\obj\Debug\net6.0\PDF Parser.pdb
+D:\DOT NET\PDF Parser\PDF Parser\obj\Debug\net6.0\PDF Parser.genruntimeconfig.cache
+D:\DOT NET\PDF Parser\PDF Parser\obj\Debug\net6.0\ref\PDF Parser.dll
